@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-I'm a 3rd-year Computer Science student at Ho Chi Minh City University of Industry and Trade (HUIT).  
+I'm a 3rd-year Information Technology student at Ho Chi Minh City University of Industry and Trade (HUIT).  
 I enjoy building web applications and improving my skills in both frontend and backend development.  
 
 ## 🚀 Skills  
