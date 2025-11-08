@@ -1,7 +1,7 @@
 # Hi there 👋  
 
 I'm a 3rd-year Information Technology student at Ho Chi Minh City University of Industry and Trade (HUIT).  
-I enjoy building web applications and improving my skills in both frontend and backend development.  
+I enjoy building web applications with AI and improving my skills in both frontend and backend development.  
 
 ## 🚀 Skills  
 
@@ -27,7 +27,10 @@ I enjoy building web applications and improving my skills in both frontend and b
   Implemented CRUD operations for managing students and grades, with integrated Spring Security for authentication and authorization.  
 
 - **Database Security (Oracle + WinForms)**  
-  Built an Windows App to manage database users, assign privileges, and audit user activities using Oracle procedures and roles.  
+  Built an Windows App to manage database users, assign privileges, and audit user activities using Oracle procedures and roles.
+
+- **Rain Classification using CNN**  
+  Implement model ResNet50 after training with Senintel-2 satellite image.
 
 - **More projects coming soon...**
 
