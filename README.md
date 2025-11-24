@@ -30,7 +30,7 @@ I enjoy building web applications with AI and improving my skills in both fronte
   Built an Windows App to manage database users, assign privileges, and audit user activities using Oracle procedures and roles.
 
 - **Rain Classification using CNN**  
-  Implement model ResNet50 after training with Senintel-2 satellite image.
+  Implement model ResNet34 after training with Aqua MODIS satellite image.
 
 - **More projects coming soon...**
 
