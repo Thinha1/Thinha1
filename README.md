@@ -18,7 +18,7 @@ I enjoy building web applications with AI and improving my skills in both fronte
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ## 📈 GitHub Stats
-![Thống kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=Thinha1&show_icons=true&theme=radical)
+![Thống kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=Thinha1)
 
 
 ## 📚 Featured Projects  
