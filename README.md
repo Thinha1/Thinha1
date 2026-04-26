@@ -23,14 +23,13 @@ I enjoy building web applications with AI and improving my skills in both fronte
 
 ## 📚 Featured Projects  
 
-- **Student Management System (Java, Spring MVC, Thymeleaf)**  
-  Implemented CRUD operations for managing students and grades, with integrated Spring Security for authentication and authorization.  
+- **Rental House Management App (Flutter & AI)** Developed a mobile application to automate property and tenant management. Integrated an intelligent chatbot utilizing Retrieval-Augmented Generation (RAG), Gemini API, and Firestore to automate responses, handle tenant inquiries, and streamline boarding house operations.
 
-- **Database Security (Oracle + WinForms)**  
-  Built an Windows App to manage database users, assign privileges, and audit user activities using Oracle procedures and roles.
+- **Sports Equipment E-Commerce Platform** Built a comprehensive web-based platform for selling sporting goods. Implemented an AI-powered smart chatbot to assist customers with product recommendations, order tracking, and automated support to enhance the shopping experience.
 
-- **Rain Classification using CNN**  
-  Implement model ResNet34 after training with Aqua MODIS satellite image.
+- **Database Security Management (Oracle & WinForms)** Built a Windows Desktop App to manage database users, dynamically assign privileges, and audit user activities using advanced Oracle procedures and roles.
+
+- **Rain Classification using CNN** Implemented and fine-tuned a ResNet34 model for accurate weather classification after training with Aqua MODIS satellite imagery.
 
 - **More projects coming soon...**
 
